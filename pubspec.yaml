@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  #
+  #intl package for handling the date format
   intl: ^0.16.0
   #http package for handling the api calls
   http: ^0.13.3
